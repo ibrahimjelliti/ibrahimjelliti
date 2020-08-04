@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ibrahim Jelliti </h1>
-<h3 align="center">A Full-Stack Software Engineer, passionate Data Scientist and Open Source contributor From Tunisia </h3>
+<h3 align="center">A Full-Stack Software Engineer, passionate Data Scientist and Open Source contributor From <img width='24px' src="https://raw.githubusercontent.com/HatScripts/circle-flags/master/flags/tn.svg"/> </h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
