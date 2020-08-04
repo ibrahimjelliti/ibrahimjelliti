@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ijelliti/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ijelliti/" height="20" width="20" /></a>
- <a href="https://twitter.com/IbrahimJelliti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/IbrahimJelliti" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/ijelliti/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/ijelliti/" height="32" width="32" /></a>
+ <a href="https://twitter.com/IbrahimJelliti" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="https://twitter.com/IbrahimJelliti" height="32" width="32" /></a>
 
 </p>
