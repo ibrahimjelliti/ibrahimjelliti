@@ -15,12 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Ibrahim Jelliti </h1>
 <h3 align="center">A Full-Stack Software Engineer, passionate Data Scientist and Open Source contributor From <img style="margin-bottom: -4px;max-width:100%;" width='24px' src="https://raw.githubusercontent.com/HatScripts/circle-flags/master/flags/tn.svg"/> </h3>
-
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=ijelliti" alt="ijelliti" />
-
+<p align="center">
  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="20" height="20"/> 
  <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="react" width="20" height="20" />
@@ -32,12 +27,12 @@ Here are some ideas to get you started:
  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/>
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" width="20" height="20" /> 
  <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="google cloud"  width="20" height="20" /> 
-<img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure"  width="20" height="20" /> 
-<img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"  width="20" height="20" /> 
+ <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure"  width="20" height="20" /> 
+ <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"  width="20" height="20" /> 
  <img src="https://img.icons8.com/color/48/000000/kubernetes.svg" alt="kubernetes"  width="20" height="20" /> 
  <img src="https://img.icons8.com/color/48/000000/mongodb.svg" alt="mongodb"  width="20" height="20" /> 
  <img src="https://img.icons8.com/color/48/000000/redis.svg" alt="redis"  width="20" height="20" /> 
-<img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="mysql"  width="20" height="20" /> 
+  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="mysql"  width="20" height="20" /> 
  <img src="https://img.icons8.com/color/48/000000/postgreesql.svg" alt="postgresql"  width="20" height="20" /> 
  <img src="https://img.icons8.com/color/48/000000/firebase.svg" alt="firebase"  width="20" height="20" /> 
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apachecassandra.svg" alt="apache cassandra"  width="20" height="20" /> 
@@ -48,8 +43,11 @@ Here are some ideas to get you started:
  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="jenkins"  width="20" height="20" /> 
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jenkinsx.svg" alt="jenkinsxfull stac"  width="20" height="20" /> 
  <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="nginx"  width="20" height="20" /> 
- </p>
- 
+</p>
+
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+ <img src="https://komarev.com/ghpvc/?username=ijelliti" alt="ijelliti" />
+
 - 👨‍💻 All of my projects are available [here](https://github.com/ijelliti?tab=repositories)
 
 - 💬 Ask me about **anything**
