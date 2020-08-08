@@ -45,7 +45,7 @@ Here are some ideas to get you started:
  <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="nginx"  width="20" height="20" /> 
 </p>
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)<br>
  <img src="https://komarev.com/ghpvc/?username=ijelliti" alt="ijelliti" />
 
 - 👨‍💻 All of my projects are available [here](https://github.com/ijelliti?tab=repositories)
