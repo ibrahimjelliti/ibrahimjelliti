@@ -27,7 +27,8 @@ Here are some ideas to get you started:
  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/>
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" width="20" height="20" /> 
  <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="google cloud"  width="20" height="20" /> 
- <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure"  width="20" height="20" /> 
+ <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure"  width="20" height="20" />
+ <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"  width="20" height="20" />
  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"  width="20" height="20" /> 
  <img src="https://img.icons8.com/color/48/000000/kubernetes.svg" alt="kubernetes"  width="20" height="20" /> 
  <img src="https://img.icons8.com/color/48/000000/mongodb.svg" alt="mongodb"  width="20" height="20" /> 
@@ -42,7 +43,20 @@ Here are some ideas to get you started:
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/octopusdeploy.svg" alt="octopus"  width="20" height="20" /> 
  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="jenkins"  width="20" height="20" /> 
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jenkinsx.svg" alt="jenkinsxfull stac"  width="20" height="20" /> 
- <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="nginx"  width="20" height="20" /> 
+ <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="nginx"  width="20" height="20" />
+<img src="https://img.icons8.com/fluent/48/000000/android-os.png" alt="android"  width="20" height="20" />
+ <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/ansible.svg" alt="ansible"  width="20" height="20" /> 
+ <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apachekafka.svg" alt="Kafka"  width="20" height="20" />
+ <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/auth0.svg" alt="Auth0"  width="20" height="20" />
+ <img src="https://img.icons8.com/dusk/48/000000/babel.svg" alt="Babel" width="20" height="20" />
+ <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cloudbees.svg" alt="cloudbees"  width="20" height="20" />
+ <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/confluence.svg" alt="confluence"  width="20" height="20" />
+ <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/consul.svg" alt="consul"  width="20" height="20" />
+ <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus"  width="20" height="20" />
+ <img src="https://img.icons8.com/dusk/48/000000/css3.png" alt="css3"  width="20" height="20" />
+ <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="elasticsearch"  width="20" height="20" />
+ <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/helm.svg" alt="Helm"  width="20" height="20" />
+ <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jquery.svg" alt="jquery"  width="20" height="20" />
 </p>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)<br>
