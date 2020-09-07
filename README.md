@@ -63,18 +63,20 @@ Here are some ideas to get you started:
  <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="elasticsearch"  width="20" height="20" />
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/helm.svg" alt="Helm"  width="20" height="20" />
 </p>
-# My public workds
-- 👨‍💻 All of my projects are available [here](https://github.com/ijelliti?tab=repositories)
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)<br>
  <img src="https://komarev.com/ghpvc/?username=ijelliti" alt="ijelliti" />
- 
+# My public workds
+- 👨‍💻 All of my projects are available [here](https://github.com/ijelliti?tab=repositories)
+
 # My Last Blog posts
 - [My Take towards CKA & CKAD + September Curriculum Update Tips](https://www.ibrahimjelliti.com/my-take-towards-cka-ckad-september-curriculum-update-tips/)
 
 # Reach me
 - 💬 Ask me about **anything**
-- 📫 How to reach me **[contact@ibrahimjelliti.com](mailto:contact@ibrahimjelliti.com)**
+- 📫 How to reach me **[contact@ibrahimjelliti.com](mailto:contact@ibrahimjelliti.com)
+- Twitter [@IbrahimJelliti](https://www.twitter/IbrahimJelliti)
+- LinkedIn [@ijelliti](https://www.linkedin.com/in/ijelliti)
 
 
 
