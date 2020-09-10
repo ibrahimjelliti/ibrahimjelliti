@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="20" height="20"/>
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jquery.svg" alt="jquery"  width="20" height="20" />
+ <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/jquery_logo.svg" alt="jquery" width="20" height="20" />
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/nestjs.svg" alt="NestJS"  width="20" height="20" />
  <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="react" width="20" height="20" />
  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="20" height="20"/>
