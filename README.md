@@ -74,9 +74,9 @@ Here are some ideas to get you started:
 
 # Reach me
 - 💬 Ask me about **anything**
-- 📫 How to reach me **[contact@ibrahimjelliti.com](mailto:contact@ibrahimjelliti.com)
-- Twitter [@IbrahimJelliti](https://www.twitter/IbrahimJelliti)
-- LinkedIn [@ijelliti](https://www.linkedin.com/in/ijelliti)
+-  <img src="https://img.icons8.com/color/48/000000/email.png" alt="git" width="20" height="20"/> [contact@ibrahimjelliti.com](mailto:contact@ibrahimjelliti.com)
+- <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="git" width="20" height="20"/> Twitter [@IbrahimJelliti](https://www.twitter/IbrahimJelliti)
+- <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="git" width="20" height="20"/> LinkedIn [@ijelliti](https://www.linkedin.com/in/ijelliti)
 
 
 
