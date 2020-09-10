@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/java.svg" alt="JAVA" width="20" height="20"/> 
  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" width="20" height="20"/> 
  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20" height="20" /> 
+ <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="20" height="20" /> 
  <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="google cloud"  width="20" height="20" /> 
  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure"  width="20" height="20" />
  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"  width="20" height="20" />
@@ -46,9 +46,7 @@ Here are some ideas to get you started:
  <img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-ar21.svg" alt="influxdb"  width="20" height="20" /> 
  <img src="https://img.icons8.com/color/64/000000/oracle-logo.png" alt="oracle"  width="20" height="20" /> 
  <img src="https://img.icons8.com/color/48/000000/graphql.svg" alt="graphql"  width="20" height="20" /> 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/octopusdeploy.svg" alt="octopus"  width="20" height="20" /> 
  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="jenkins"  width="20" height="20" /> 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jenkinsx.svg" alt="jenkinsxfull stac"  width="20" height="20" /> 
  <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="nginx"  width="20" height="20" />
  <img src="https://img.icons8.com/fluent/48/000000/android-os.png" alt="android"  width="20" height="20" />
  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="ansible"  width="20" height="20" /> 
