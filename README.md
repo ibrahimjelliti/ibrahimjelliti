@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="react" width="20" height="20" />
  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="20" height="20"/>
  <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/dotnet.svg" alt=".Net" width="20" height="20"/>
- <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svgg" alt="Go" width="20" height="20"/>
+ <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" width="20" height="20"/>
  <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/java.svg" alt="JAVA" width="20" height="20"/> 
  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" width="20" height="20"/> 
  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/>
