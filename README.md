@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ibrahim Jelliti </h1>
+<p align="center">
+<a href="https://www.buymeacoffee.com/ibrahimjelliti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
 <h3 align="center">A Full-Stack Software Engineer, passionate Data Scientist and Open Source contributor From Tunisia
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
