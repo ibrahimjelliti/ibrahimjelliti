@@ -63,9 +63,13 @@ Here are some ideas to get you started:
  <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="elasticsearch"  width="20" height="20" />
  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg" alt="Helm" height="20" />
 </p>
+<p align="center">
+   <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="dino" />
+   <img src="https://komarev.com/ghpvc/?username=ijelliti" alt="ijelliti" />
+   <a href="https://twitter.com/intent/follow?screen_name=IbrahimJelliti"><img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social" alt="@IbrahimJelliti" /></a>
+   <a href="https://www.linkedin.com/in/ijelliti"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" alt="@ijelliti" /></a>
+</p>
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)<br>
- <img src="https://komarev.com/ghpvc/?username=ijelliti" alt="ijelliti" />
 # My public workds
 - 👨‍💻 All of my projects are available [here](https://github.com/ijelliti?tab=repositories)
 
@@ -75,7 +79,7 @@ Here are some ideas to get you started:
 # Reach me
 - 💬 Ask me about **anything**
 -  <img src="https://img.icons8.com/color/48/000000/email.png" alt="git" width="20" height="20"/> [contact@ibrahimjelliti.com](mailto:contact@ibrahimjelliti.com)
-- <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="git" width="20" height="20"/> Twitter [@IbrahimJelliti](https://www.twitter/IbrahimJelliti)
+- <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="git" width="20" height="20"/> Twitter [@IbrahimJelliti](https://twitter.com/intent/follow?screen_name=IbrahimJelliti)
 - <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="git" width="20" height="20"/> LinkedIn [@ijelliti](https://www.linkedin.com/in/ijelliti)
 
 
@@ -89,6 +93,6 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://www.ibrahimjelliti.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="https://www.ibrahimjelliti.com/" height="32" width="32" /></a>
 <a href="https://www.linkedin.com/in/ijelliti/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/ijelliti/" height="32" width="32" /></a>
- <a href="https://twitter.com/IbrahimJelliti" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="https://twitter.com/IbrahimJelliti" height="32" width="32" /></a>
+ <a href="https://twitter.com/intent/follow?screen_name=IbrahimJelliti" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="https://twitter.com/IbrahimJelliti" height="32" width="32" /></a>
 
 </p>
