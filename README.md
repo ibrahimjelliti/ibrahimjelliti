@@ -79,8 +79,8 @@ Here are some ideas to get you started:
 # Reach me
 - 💬 Ask me about **anything**
 -  <img src="https://img.icons8.com/color/48/000000/email.png" alt="git" width="20" height="20"/> [contact@ibrahimjelliti.com](mailto:contact@ibrahimjelliti.com)
-- <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="git" width="20" height="20"/> Twitter [@IbrahimJelliti](https://twitter.com/intent/follow?screen_name=IbrahimJelliti)
-- <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="git" width="20" height="20"/> LinkedIn [@ijelliti](https://www.linkedin.com/in/ijelliti)
+- <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="git" width="20" height="20"/> Twitter [@ibrahimjelliti](https://twitter.com/intent/follow?screen_name=IbrahimJelliti)
+- <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="git" width="20" height="20"/> LinkedIn [@ibrahimjelliti](https://www.linkedin.com/in/ijelliti)
 
 
 
