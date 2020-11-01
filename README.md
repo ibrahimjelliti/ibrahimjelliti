@@ -1,5 +1,5 @@
 <!--
-**ijelliti/ijelliti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ibrajimjelliti/ibrahimjelliti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -65,13 +65,13 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
    <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="dino" />
-   <img src="https://komarev.com/ghpvc/?username=ijelliti" alt="ijelliti" />
+   <img src="https://komarev.com/ghpvc/?username=ibrahimjelliti" alt="ijelliti" />
    <a href="https://twitter.com/intent/follow?screen_name=IbrahimJelliti"><img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social" alt="@IbrahimJelliti" /></a>
-   <a href="https://www.linkedin.com/in/ijelliti"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" alt="@ijelliti" /></a>
+   <a href="https://www.linkedin.com/in/ibrahimjelliti"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" alt="@ibjelliti" /></a>
 </p>
 
 # My public workds
-- 👨‍💻 All of my projects are available [here](https://github.com/ijelliti?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/ibrahimjelliti?tab=repositories)
 
 # My Last Blog posts
 - [My Take towards CKA & CKAD + September Curriculum Update Tips](https://www.ibrahimjelliti.com/my-take-towards-cka-ckad-september-curriculum-update-tips/)
@@ -85,14 +85,14 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ijelliti&show_icons=true" alt="ijelliti" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimjelliti&show_icons=true" alt="ibrahimjelliti" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijelliti&layout=compact" alt="ijelliti" />
 </p>
 
 
 <p align="center">
   <a href="https://www.ibrahimjelliti.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="https://www.ibrahimjelliti.com/" height="32" width="32" /></a>
-<a href="https://www.linkedin.com/in/ijelliti/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/ijelliti/" height="32" width="32" /></a>
+<a href="https://www.linkedin.com/in/ibrahimjelliti/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/ibrahimjelliti/" height="32" width="32" /></a>
  <a href="https://twitter.com/intent/follow?screen_name=IbrahimJelliti" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="https://twitter.com/IbrahimJelliti" height="32" width="32" /></a>
 
 </p>
