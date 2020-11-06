@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
    <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="dino" />
-   <img src="https://komarev.com/ghpvc/?username=ibrahimjelliti" alt="ijelliti" />
+   <img src="https://komarev.com/ghpvc/?username=ibrahimjelliti" alt="ibrahimjelliti" />
    <a href="https://twitter.com/intent/follow?screen_name=IbrahimJelliti"><img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social" alt="@IbrahimJelliti" /></a>
    <a href="https://www.linkedin.com/in/ibrahimjelliti"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" alt="@ibjelliti" /></a>
 </p>
@@ -80,13 +80,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about **anything**
 -  <img src="https://img.icons8.com/color/48/000000/email.png" alt="git" width="20" height="20"/> [contact@ibrahimjelliti.com](mailto:contact@ibrahimjelliti.com)
 - <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="git" width="20" height="20"/> Twitter [@ibrahimjelliti](https://twitter.com/intent/follow?screen_name=IbrahimJelliti)
-- <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="git" width="20" height="20"/> LinkedIn [@ibrahimjelliti](https://www.linkedin.com/in/ijelliti)
+- <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="git" width="20" height="20"/> LinkedIn [@ibrahimjelliti](https://www.linkedin.com/in/ibrahimjelliti)
 
 
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=ibrahimjelliti&show_icons=true" alt="ibrahimjelliti" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijelliti&layout=compact" alt="ijelliti" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimjelliti&layout=compact" alt="ibrahimjelliti" />
 </p>
 
 
