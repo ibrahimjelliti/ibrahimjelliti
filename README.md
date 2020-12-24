@@ -64,7 +64,7 @@ Here are some ideas to get you started:
  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg" alt="Helm" height="20" />
 </p>
 <p align="center">
-   <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="dino" />
+
    <img src="https://komarev.com/ghpvc/?username=ibrahimjelliti" alt="ibrahimjelliti" />
    <a href="https://twitter.com/intent/follow?screen_name=IbrahimJelliti"><img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social" alt="@IbrahimJelliti" /></a>
    <a href="https://www.linkedin.com/in/ibrahimjelliti"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" alt="@ibjelliti" /></a>
