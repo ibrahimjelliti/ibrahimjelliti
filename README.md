@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m Full-Stack Software Engineer and Data-Scientist
+- 🔭 I’m Full-Stack Software Engineer
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.buymeacoffee.com/ibrahimjelliti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
-<h3 align="center">A Full-Stack Software Engineer, passionate Data Scientist and Open Source contributor From Tunisia
+<h3 align="center">A Software Craftsman passionate DeepLearning and Open Source.
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="20" height="20"/>
