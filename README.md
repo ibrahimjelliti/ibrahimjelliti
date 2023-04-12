@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Ibrahim Jelliti </h1>
 <p align="center">
-<a href="https://www.buymeacoffee.com/ibrahimjelliti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.codementor.io/@ibrahimj?refer=badge"><img src="https://www.codementor.io/m-badges/ibrahimj/im-a-cm-b.svg" alt="Codementor badge"></a>
 </p>
 <h3 align="center">A Software Craftsman passionate DeepLearning and Open Source.
 <p align="center">
